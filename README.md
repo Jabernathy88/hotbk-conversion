@@ -55,6 +55,10 @@ AC 5 [14], HD 4* (24hp), Att 4 x bite (1d8+1), THAC0 16 [+3], MV 0' (0'), SV D10
 * Spell immunity: Unaffected by sleep and charm spells.
 * Scream for help: After losing half hp, the doors call for reinforcements. 1d6+1 Blood Thrall Guards arrive in 2d6 rounds.
 
+Compare to: Bone Golem https://cairnrpg.com/resources/monsters/golem-bone/
+
+
+
 **Vampire Guests**    | p. 21
 
 AC 4 [15], HD 7** (31hp), Att 1 x touch (1d10 + energy drain) or 1 x gaze (charm), THAC0 13 [+6], MV 120' (40'), SV D8 W9 P10 B10 S12 (7), ML 9, AL Chaotic, XP 1,250

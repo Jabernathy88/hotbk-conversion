@@ -24,7 +24,7 @@ a barbed sword must save vs death or suffer an additional 1d4 damage.
 * Pull: Those entangled are pulled towards the barbed fence at the beginning of the Dark Vines’ round and suffer 1d6 damage.
 
 **Shadow Hounds**    | p. 
-s
+
 ???
 * Constriction: Tongue grab and constrict after a hit. 1d4 automatic damage per round. 6 damage severs the tongue.
 
@@ -33,45 +33,59 @@ s
 **Blood Thrall Guards (Unarmored)**    | p. 17
 
 ???
-* Bleed: Anyone taking damage from Gatbearbed sword must savDeavrskdVeainthesor
+* Bleed: Anyone taking damage from Gatbearbed sword must save vs ? or
 suffer an additional 1d4 damage.
 * Morale: Guards failing a morale check snap out of the trance and request help.
 
 **Lenice Albathea (Banshee Mother)**    | p. 18
 
-???
-* Undead: Makes no noise until she attacks. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
-* Mundane damage immunity: Can only be harmed by magical attacks.
-* Energy immunity: Unharmed by cold- based or electrical attacks.
-* Wail: All within 30' must save vs death or die. Usable once per day and only during the hours of darkness.
-* Melancholic presence: Mortals with less HD than her must save vs spells or become melancholic, receiving -2 on attacks and saves.
+10 HP, 3 Armor, 7 STR, 13 DEX, 18 WIL, ghostly touch (d8)
+
+* Incorporeal feminine spirits that lingered after death and haunt the living.
+* Unharmed by cold, heat, or the elements.
+* Wail: Releases a piercing screech, anyone caught saves against Critical Damage regardless of current HP.
+
+Compare to: https://cairnrpg.com/resources/monsters/banshee/
 
 **Monstrous Doors**   | p. 20
 
-???
-* Acidic blood: When suffering damage, those in melee must save vs breath or suffer 1d6 damage/round until cleaned. Mundane weapons are damaged if saving throws fail.
-* Spell immunity: Unaffected by sleep and charm spells.
-* Scream for help: After losing half hp, the doors call for reinforcements. 1d6+1 Blood Thrall Guards arrive in 2d6 rounds.
+10 HP, 2 Armor, 15 STR, 5 DEX 18 WIL, four arms (d8, blast)
+* If harmed, its acidic blood splatters profusely, damaging any nearby creature for d6 damage.
+* Unaffected by sleep and charm spells.
+* After losing half hp, the doors scream for reinforcements. 1d6+1 Blood Thrall Guards arrive in 2d6 rounds.
+
+Compare to:
+* Bone Golem https://cairnrpg.com/resources/monsters/golem-bone/
+* Salamander https://cairnrpg.com/resources/monsters/salamander-flame/
 
 **Vampire Guests**    | p. 21
 
-???
-* Vampire traits: See page 9. 21
+9 HP, 1 Armor, 12 STR, 12 DEX, 16 WIL, bite (d10)
+
+* Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can shape change to the form of a giant bat.
+* Regeneration: A damaged vampire gains 3hp at the start of each round, as long as it is alive. If killed, becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
+* Critical Damage: The Vampire drains the victim’s essence (d12 WIL damage). At 0 WIL, the victim is killed and becomes a vampire.
+
+Compare to: Vampire https://cairnrpg.com/resources/monsters/vampire/
 
 **Blood Servants**    | p. 24
 
-???
-* Scream: Every round screaming, roll for a Random Happening, and if it occurs, roll 1d6+6 to see what arrives.
+6 HP, 18 WILL, cleaver (d6)
+* Screams continuously if threatened. Roll for a Random Happening every round, and if it occurs, roll 1d6+6 to see what arrives.
+
+Compare to: Brigand https://cairnrpg.com/resources/monsters/brigand/
 
 **Blood Spider Queen**    | p.27
+ 
+10 HP, 2 Armor, 15 STR, 12 DEX, 12 WILL, bite (d10), claws (d8+d8)
 
-???
-* Poison: Those bitten must save vs poison
-or die in 1 turn.
+* Poison: Those bitten must save vs poisonor die in 1 turn.
 * Webs: Creatures caught in webs become entangled and unable to move. Breaking free depends on Strength: 2d4 turns for Strength in the normal human range, 4 rounds for Strength above 18, 2 rounds for creatures with giant Strength. The webs are destroyed by fire in two rounds. All creatures in a flaming web suffer 1d6 damage. 
 * Drain blood: On a natural 19 or 20 attack roll, the Spider Queen attaches to her victim, draining their blood, automatically inflicting damage every round while healing herself for the same amount.
 
 **Blood Spiders**    | p. 27
+
+5 HP, 1 Armor, 12 STR, 12 DEX, 12 WILL bite (d6)
 
 ???
 * Poison: Those bitten must save vs poison or die in 1 turn.*▶ Webs: Creatures caught in webs become entangled and immobilized. Breaking free depends on Strength: 2d4 turns for Strength in the normal human range, 4 rounds for Strength29above 18, 2 rounds for creatures with giant Strength. The webs are destroyed by fire in two rounds. All creatures in a flaming web suffer 1d6 damage.
