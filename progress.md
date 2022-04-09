@@ -1,5 +1,7 @@
 # HotBK Conversion
 
+Revisit - April 2022.
+
 Unofficial stats conversion for _HotBK_ for **OSE -> Cairn -> Mork Borg**
 
 ### Grounds
@@ -79,7 +81,7 @@ Compare to: Brigand https://cairnrpg.com/resources/monsters/brigand/
  
 10 HP, 2 Armor, 15 STR, 12 DEX, 12 WILL, bite (d10), claws (d8+d8)
 
-* Poison: Those bitten must save vs poisonor die in 1 turn.
+* Poison: Those bitten must save vs poison or die in 1 turn.
 * Webs: Creatures caught in webs become entangled and unable to move. Breaking free depends on Strength: 2d4 turns for Strength in the normal human range, 4 rounds for Strength above 18, 2 rounds for creatures with giant Strength. The webs are destroyed by fire in two rounds. All creatures in a flaming web suffer 1d6 damage. 
 * Drain blood: On a natural 19 or 20 attack roll, the Spider Queen attaches to her victim, draining their blood, automatically inflicting damage every round while healing herself for the same amount.
 
