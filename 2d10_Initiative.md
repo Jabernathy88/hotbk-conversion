@@ -6,7 +6,7 @@ The GM may rule that some characters are ready or surprised based on what's happ
 
 During Round 1 of combat, all characters are either **surprised** -or- **ready now**.
 
-**Round 1**: The spotlight starts with players who are ready now. Then resolve the actions of enemies who are ready now. Skip all other characters who are surprised. The benefits of surprise wear off at the end of this round.
+**Round 1**: The spotlight starts with players who are ready now. Then resolve the actions of enemies who are ready now. Skip all other characters who are surprised. All effects related to surprise wear off at the end of this round.
 
 **Round 2**: Characters are no longer surprised. The spotlight goes to all of the players first, and then all enemies may act as normal.
 
