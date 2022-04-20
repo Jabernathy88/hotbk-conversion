@@ -22,7 +22,7 @@ The GM rolls **1d6** for all enemies and may include a **+1** or **-1** modifier
  * **4-5**: **One** enemy is surprised. The rest are ready now. The GM chooses which. If this is a very large battle, consider choosing a small group of enemies.
  * **6**:	**All** of the enemies are ready now.
 
-_(Knowing which enemies are surprised can be a factor the GM considers in setting difficulty for the players' initiative roll. See below.)_
+_(Knowing which enemies are surprised might be a factor in setting difficulty for the players' roll below.)_
 
 ### Players
 
