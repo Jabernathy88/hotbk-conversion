@@ -8,7 +8,7 @@ During Round 1 of combat, all characters are either **surprised** -or- **ready n
 
 **Round 1**: The spotlight starts with players who are ready now. Then resolve the actions of enemies who are ready now. Skip all other characters who are surprised. All effects related to surprise wear off at the end of this round.
 
-**Round 2**: Characters are no longer surprised. The spotlight goes to all of the players first, and then all enemies may act as normal.
+**Round 2**: Characters are no longer surprised. The spotlight goes to all of the players first, and all enemies may act as normal.
 
 **Round 3**: And so on, players first and enemies last, as normal.
 
