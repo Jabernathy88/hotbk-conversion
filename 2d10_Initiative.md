@@ -14,7 +14,7 @@ During Round 1 of combat, all characters are either **surprised** -or- **ready n
 
 ### Enemies
 
-If this is a small battle involving only a handful of enemies, consider a common sense ruling, or simplify the odds by choosing two options below and rolling high or low.
+If this is a small battle, consider a common sense ruling or simplify the odds by choosing two options below and rolling high or low.
 
 The GM rolls **1d6** for all enemies and may include a **+1** or **-1** modifier based on the fiction. If rolling in the open, declare this bonus beforehand. It's a good idea to make these numbers known to players if you've committed to multiple sessions or a campaign.
  * **1**:	**All** enemies are surprised.
